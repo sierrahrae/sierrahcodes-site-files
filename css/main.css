@@ -32,7 +32,7 @@ header {
 header h1 {
   padding: 65px 0 65px 25px;
   font-family: 'Lora', serif;
-  color: #BBC085;
+  color: #3a4660;
   font-size: 30px;
 }
 nav {
@@ -46,7 +46,7 @@ nav ul li a {
     text-transform: capitalize;
     text-decoration: none;
     font-size: 18px;
-    color: #828282;
+    color: #3a4660;
     padding-left: 80px;
 }
 header h2 {
@@ -59,7 +59,7 @@ header h2 {
     padding: 20px 0 20px 25px;
 }
 header h2 span {
-    color: #2b2b2b;
+    color: #3a4660;
 }
 /****** ABOUT ******/
 
@@ -81,8 +81,9 @@ header h2 span {
 }
 /* WORK */
 #work {
-    background-color: #BBC085;
+    background-color: #3a4660;
     text-align: center;
+    color: #f5f5f5;
 }
 #work .full-width {
 padding: 115px 0;
@@ -105,12 +106,12 @@ padding: 115px 0;
 }
 /* CONTACT */
 #contact {
-  background: #EBEBEB;
+  background: #f5f5f5;
   padding: 110px 0;
 }
 #contact img#contact-img {
   margin-left: 25px;
-  border: 12px solid #ffffff;
+  border: 12px solid #f5f5f5  ;
 }
 #contact h2, #contact #email-header, #contact #socialmedia-header, #contact ul {
     padding-left: 115px;
@@ -137,7 +138,7 @@ padding: 115px 0;
 }
 #contact a {
     text-decoration: none;
-    color: #BBC085;
+    color: #3a4660;
     font-weight: bold;
     font-size: 28px;
 }
@@ -148,6 +149,6 @@ padding: 115px 0;
      display: inline-block;
 }
 #contact ul img {
-    font-size: 32px;
-    padding-right: 48px;
+    font-size: 15px;
+    padding-right: 50px;
 }
